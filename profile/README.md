@@ -1,4 +1,4 @@
-<h1>plus <img src="https://raw.githubusercontent.com/plusauri/.github/main/profile/plusauri-symbol.png" alt="" width="38" height="38" align="absmiddle"> auri</h1>
+<h1>plus <img src="plusauri-symbol.png" alt="" width="38" height="38" align="absmiddle"> auri</h1>
 
 Plusauri builds [Tutilis](https://plusauri.com), a desktop application for modeling a household's financial plan. The plan stays on your computer. You buy the app once, when sales open.
 
